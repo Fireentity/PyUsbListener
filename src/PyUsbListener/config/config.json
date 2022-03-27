@@ -1,0 +1,6 @@
+[
+  {
+    "name": "G502_HERO_Gaming_Mouse",
+    "command": "xinput set-prop \"Logitech G502 HERO Gaming Mouse\" \"libinput Accel Speed\" -0.8"
+  }
+]

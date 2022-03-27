@@ -1,7 +1,7 @@
 import pyudev
 import os
 import json
-from src.PyUsbListener import config
+from . import config
 import importlib.resources as pkg_resources
 
 
